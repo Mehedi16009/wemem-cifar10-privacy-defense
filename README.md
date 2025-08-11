@@ -40,7 +40,7 @@ This implementation extends the original WEMEM: Defending Against Membership Inf
 ## 📈 Model Performance
 
 ### Confusion Matrix
-<img width="707" height="701" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/bbc7d3c2-fec7-4806-9039-333d550ddd52" />
+<img width="707" height="650" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/bbc7d3c2-fec7-4806-9039-333d550ddd52" />
 
 
 ### Training & Validation Accuracy
@@ -56,8 +56,10 @@ This implementation extends the original WEMEM: Defending Against Membership Inf
 📊 Planned Future Work:
 	•	LLM/VLM-powered interpretability to explain and visualize memorization patterns in pruned models.
 	•	Integration with automated hyperparameter tuning for optimal privacy–utility tradeoffs.
- 📬 Contact
-Sincerely,
+
+
+ 
+##📬 Contact:
 Md. Mehedi Hasan
 Prospective Ph.D. Student
 Lecturer, Dept. of Computer Science & Engineering
