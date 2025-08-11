@@ -40,15 +40,15 @@ This implementation extends the original WEMEM: Defending Against Membership Inf
 ## 📈 Model Performance
 
 ### Confusion Matrix
-<img width="806" height="701" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/bbc7d3c2-fec7-4806-9039-333d550ddd52" />
+<img width="707" height="701" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/bbc7d3c2-fec7-4806-9039-333d550ddd52" />
 
 
 ### Training & Validation Accuracy
-<img width="1414" height="694" alt="Train and Validation Accuracy" src="https://github.com/user-attachments/assets/afa6bad3-3d64-41f0-88a6-964efcb66327" />
+<img width="781" height="694" alt="Train and Validation Accuracy" src="https://github.com/user-attachments/assets/afa6bad3-3d64-41f0-88a6-964efcb66327" />
 
 
 ### Training & Validation Loss
-<img width="1413" height="693" alt="Train and Validation Loss" src="https://github.com/user-attachments/assets/8af78623-6ae4-4173-a796-374b48344aa4" />
+<img width="781" height="693" alt="Train and Validation Loss" src="https://github.com/user-attachments/assets/8af78623-6ae4-4173-a796-374b48344aa4" />
 
 
 ⸻
@@ -56,3 +56,12 @@ This implementation extends the original WEMEM: Defending Against Membership Inf
 📊 Planned Future Work:
 	•	LLM/VLM-powered interpretability to explain and visualize memorization patterns in pruned models.
 	•	Integration with automated hyperparameter tuning for optimal privacy–utility tradeoffs.
+ 📬 Contact
+Sincerely,
+Md. Mehedi Hasan
+Prospective Ph.D. Student
+Lecturer, Dept. of Computer Science & Engineering
+Global Institute of Information Technology (GIIT), Bangladesh
+📧 Email: mehedi.hasan.ict@mbstu.ac.bd | mehedi.hasan.ict13@gmail.com
+📞 Phone: +880 1789 113 669 | +880 1334 110 929
+🌐 Portfolio: [Link](https://md-mehedi-hasan-resume.vercel.app/)
