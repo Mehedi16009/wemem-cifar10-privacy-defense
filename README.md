@@ -40,7 +40,8 @@ This implementation extends the original WEMEM: Defending Against Membership Inf
 ## 📈 Model Performance
 
 ### Confusion Matrix
-<img width="806" height="701" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/cca24139-d8e8-4579-9be5-6c886b5075a0" />
+<img width="806" height="701" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/bbc7d3c2-fec7-4806-9039-333d550ddd52" />
+
 
 ### Training & Validation Accuracy
 <img width="1414" height="694" alt="Train and Validation Accuracy" src="https://github.com/user-attachments/assets/afa6bad3-3d64-41f0-88a6-964efcb66327" />
